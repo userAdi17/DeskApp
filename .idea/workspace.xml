@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a81dfb4-addf-4f70-8371-60b307b9b4b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+        <option value="Sass File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nbPIo7jf15yfNeUG3UCqHXysj4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practive jd/js.js" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a81dfb4-addf-4f70-8371-60b307b9b4b0" name="Default Changelist" comment="" />
+      <created>1611655741257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611655741257</updated>
+      <workItem from="1611655753706" duration="8627000" />
+      <workItem from="1611676109899" duration="4888000" />
+      <workItem from="1611750171578" duration="1329000" />
+      <workItem from="1611753672262" duration="1328000" />
+      <workItem from="1611834161773" duration="124000" />
+      <workItem from="1611834294817" duration="10632000" />
+      <workItem from="1611922936797" duration="588000" />
+      <workItem from="1612256473705" duration="7680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="132" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611660376664">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="132" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.720@0.0.1366.720" timestamp="1611660376664" />
+    <state x="140" y="0" key="EditFileWatcherDialog" timestamp="1611656139408">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="140" y="0" key="EditFileWatcherDialog/0.0.1366.720@0.0.1366.720" timestamp="1611656139408" />
+    <state x="309" y="0" key="FileChooserDialogImpl" timestamp="1611852692265">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="309" y="0" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1611852692265" />
+    <state x="91" y="91" width="1184" height="538" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611853043899">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="91" y="91" width="1184" height="538" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.720@0.0.1366.720" timestamp="1611853043899" />
+  </component>
+</project>
